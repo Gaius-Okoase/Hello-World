@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 And I'm learning, or so I think.
 
 ANother line simply because I want to learn pull. Meant to be a comnbination of fetch and merge
+
+Another line to learn pushing branch to git hub.
+
